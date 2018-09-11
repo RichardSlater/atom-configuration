@@ -1,0 +1,9 @@
+"*":
+  core:
+    autoHideMenuBar: true
+    telemetryConsent: "limited"
+    uriHandlerRegistration: "always"
+  "exception-reporting":
+    userId: "774f9ba0-7a00-4423-a865-d8b5f11880bb"
+  welcome:
+    showOnStartup: false
